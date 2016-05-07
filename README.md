@@ -1,7 +1,8 @@
-# show_weather_widget
+<h2>Show Weather Widget</h2>
 
 Plugin Name: Show Weather<br/>
 Plugin URI: https://github.com/coder-karen/show_weather_widget<br/>
+Description: A Wordpress widget for displaying the current weather 
 Version: 1.0<br/>
 Author: Karen Attfield<br/>
 Author URI: karenatt.carbonmade.com<br/>
