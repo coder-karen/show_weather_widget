@@ -2,8 +2,8 @@
 
 /*
 Plugin Name: Show Weather
-Plugin URI: http://k1demo.byethost6.com
-Description: A Widget for displaying the current weather using the Yahoo API current
+Plugin URI: https://github.com/coder-karen/show_weather_widget
+Description: A Wordpress widget for displaying the current weather using the Yahoo API
 Version: 1.0
 Author: Karen Attfield
 Author URI: karenatt.carbonmade.com
@@ -18,7 +18,7 @@ class Show_Weather_Widget extends WP_Widget {
 		parent::__construct(
 	 		'show_weather_widget',
 			'Show Weather Widget',
-			array( 'description' => 'A Widget for displaying the current weather using the Yahoo API' ) 
+			array( 'description' => 'A Wordpress widget for displaying the current weather using the Yahoo API' ) 
 		);
 	}
 
