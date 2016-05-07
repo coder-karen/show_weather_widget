@@ -6,6 +6,8 @@ div.show-weather-widget {
 	-moz-border-radius: 30px;
 	-webkit-border-radius: 30px;
 	border-radius: 30px;
+	-moz-box-shadow: inset 0 0 50px 10px rgba(0, 0, 0, 0.8);
+	-webkit-box-shadow: inset 0 0 50px 10px rgba(0, 0, 0, 0.8);
 	box-shadow: inset 0 0 50px 10px rgba(0, 0, 0, 0.8);
 	padding: 8px 8px;
 	text-align: center;
