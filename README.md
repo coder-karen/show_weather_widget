@@ -8,6 +8,8 @@ Author: Karen Attfield<br/>
 Author URI: karenatt.carbonmade.com<br/>
 License: GPL V2 (or later)
 
+To view a live demo visit: http://k1demo.byethost6.com/
+
 <h2>Screenshot</h2>
 ![Show Weather Screenshot](Screenshot.PNG "Screenshot of the Show Weather widget")
 
