@@ -37,6 +37,11 @@ public function widget( $args, $instance ) {
 
 
 	$response = wp_remote_get( $json_feed_url );
+	
+	do {
+	$response = wp_remote_get( $json_feed_url );
+	}
+	while ( is_wp_error($response)); 
 
 
 	$show_weather = json_decode($response['body']);
