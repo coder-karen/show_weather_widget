@@ -5,7 +5,7 @@ Plugin URI: https://github.com/coder-karen/show_weather_widget<br/>
 Description: A Wordpress widget for displaying the current weather 
 Version: 1.0<br/>
 Author: Karen Attfield<br/>
-Author URI: karenatt.carbonmade.com<br/>
+Author URI: https://karenattfield.com<br/>
 License: GPL V2 (or later)
 
 To view a live demo visit: http://k1demo.byethost6.com/
